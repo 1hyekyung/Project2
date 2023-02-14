@@ -1,4 +1,4 @@
-package chap19.sec08;
+package sec08;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
@@ -7,6 +7,9 @@ import java.net.Socket;
 import java.util.Scanner;
 import org.json.JSONArray;
 import org.json.JSONObject;
+
+// 여기 부터는 수정하는 중이예요.
+// 수정 코드 작성중입니다.
 
 public class ProductClient {
 //필드
